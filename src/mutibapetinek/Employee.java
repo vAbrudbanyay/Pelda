@@ -56,5 +56,7 @@ public class Employee extends People{
   public void language () {
     System.out.println("language of Employee class");
   }
+
+  //EOF
   
 }
