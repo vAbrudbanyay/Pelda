@@ -9,14 +9,14 @@ public class MutibaPetinek {
     Employee e2 = new Employee();
     Employee e3 = new Employee("Mimi", "Physics", 44);
     
-    s1.setName("Géza");
-    s2.setName("Béla");
+    s1.setName("Juci");
+    s2.setName("Jani");
     s1.setMajor("English");
     s2.setMajor("Hungarian");
     s1.setRegNr(0);
     
     e1.setName("Gizi");
-    e2.setName("Tóni");
+    e2.setName("Mari");
     e1.setProfession("English");
     e2.setProfession("History");
     e1.setAge(45);
